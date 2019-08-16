@@ -318,7 +318,6 @@
 		D054AE8823063D6000299CEE /* 3-350us.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = "3-350us.bmp"; sourceTree = "<group>"; };
 		D054AE8923063D6000299CEE /* 1-350us.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = "1-350us.bmp"; sourceTree = "<group>"; };
 		D054AE8A23063D6000299CEE /* 1-250us.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = "1-250us.bmp"; sourceTree = "<group>"; };
-		D054AE8B23063D9400299CEE /* 1-250us.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; name = "1-250us.bmp"; path = "../../yellow/1-250us.bmp"; sourceTree = "<group>"; };
 		D06FE42423056ECD0010E638 /* Radome */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Radome; sourceTree = BUILT_PRODUCTS_DIR; };
 		D06FE42723056ECD0010E638 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -519,7 +518,6 @@
 		D06FE42623056ECD0010E638 /* Radome */ = {
 			isa = PBXGroup;
 			children = (
-				D054AE8B23063D9400299CEE /* 1-250us.bmp */,
 				D054AE8223063A1000299CEE /* img */,
 				D06FE5E92305722C0010E638 /* opencv_lib */,
 				D06FE42723056ECD0010E638 /* main.cpp */,

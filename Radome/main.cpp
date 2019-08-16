@@ -16,7 +16,7 @@
 using namespace std;
 using namespace cv;
 
-string cwp = "/Users/xinchao/GoogleDrive/Projects/HeSi/Radome/Radome/";
+string cwp = "/Users/xinchao/GoogleDrive/Projects/HeSi/5G_Randome/Radome/Radome";
 
 int main(int argc, const char * argv[]) {
     
